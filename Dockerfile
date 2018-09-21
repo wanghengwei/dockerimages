@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/filebeat:6.4.0
+FROM gcr.io/kubernetes-helm/tiller:v2.10.0
