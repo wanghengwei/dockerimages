@@ -1,1 +1,1 @@
-FROM quay.io/jetstack/cert-manager-controller:v0.5.0
+FROM docker.elastic.co/logstash/logstash:6.4.2
