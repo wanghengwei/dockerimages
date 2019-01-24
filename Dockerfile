@@ -1,1 +1,1 @@
-FROM docker.elastic.co/logstash/logstash:6.5.3
+FROM gcr.io/kubernetes-helm/tiller:v2.12.3
