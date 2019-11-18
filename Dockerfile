@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.12.3
+FROM quay.io/k8scsi/csi-provisioner:v1.4.0
