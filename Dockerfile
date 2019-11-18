@@ -1,1 +1,1 @@
-FROM quay.io/k8scsi/csi-attacher:v2.0.0
+FROM quay.io/k8scsi/csi-node-driver-registrar:v1.2.0
